@@ -1,0 +1,5 @@
+ttkbootstrap
+pyttsx3
+pygame
+SpeechRecognition
+Pillow
